@@ -1,0 +1,23 @@
+[
+  {
+    "route": "",
+    "params": {},
+    "title": "Index"
+  },
+  {
+    "route": "components",
+    "params": {},
+    "children": [
+      {
+        "route": "CustomerComponent",
+        "params": {},
+        "title": "Customer Component"
+      },
+      {
+        "route": "CustomerCrudComponent",
+        "params": {},
+        "title": "Customer Crud Component"
+      }
+    ]
+  }
+]
